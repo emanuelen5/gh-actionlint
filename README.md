@@ -8,7 +8,7 @@ Install the [GitHub CLI](https://docs.github.com/en/github-cli/github-cli/quicks
 ### Install
 
 ```bash
-$ gh extension install https://github.com/cschleiden/gh-actionlint
+$ gh extension install https://github.com/emanuelen5/gh-actionlint
 ```
 
 ### Usage

@@ -1,4 +1,4 @@
-module github.com/cschleiden/gh-actionlint
+module github.com/emanuelen5/gh-actionlint
 
 go 1.25.0
 
